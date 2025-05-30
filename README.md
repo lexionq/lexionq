@@ -5,9 +5,9 @@
  <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "150" height="150" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=gamerYazilimci45&color=blue)
+![](https://komarev.com/ghpvc/?username=lexionq&color=blue)
 
-[My Web Site](https://gamerYazilimci45.github.io)
+[My Web Site](https://lexionq.github.io)
 ### Who Am I❓
 
 I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
@@ -35,12 +35,12 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve T�
 ![](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci45&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci45" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gameryazilimci45&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci45" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexionq&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci45" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lexionq&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci45" height="200" />
 </p>
 
 ---
-My Web Site : [Web Site](https://gamerYazilimci45.github.io)
+My Web Site : [Web Site](https://lexionq.github.io)
 
 OS: Linux Mint 22
 
@@ -73,10 +73,10 @@ I have three idols:
 ### What are my projects?
 | Project Name | Project Description| Project Language| Project GitHub | 
 |--------------|--------------------|-----------------|----------------|
-|Anka Browser  | Web Browser        |C++         | [Anka Browser](https://github.com/gamerYazilimci45/Anka)|
-|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/gamerYazilimci45/TermiNote)|
-|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/gamerYazilimci45/NomTex)| 
-|tellminal     | Send Messages from Terminal| Python |[tellminal](https://github.com/gamerYazilimci45/tellminal)
+|Anka Browser  | Web Browser        |C++         | [Anka Browser](https://github.com/lexionq/Anka)|
+|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/lexionq/TermiNote)|
+|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/lexionq/NomTex)| 
+|tellminal     | Send Messages from Terminal| Python |[tellminal](https://github.com/lexionq/tellminal)
 
 
 
