@@ -1,4 +1,4 @@
-# Hello 🙋‍♂️ I'm gamerYazilimci45. Developer from Türkiye! 👨‍💻
+# Hello 🙋‍♂️ I'm lexion! Developer from Türkiye! 👨‍💻
 <!-- Why you look at this codes :)-->
 <div align="center">
  <img src="./.github/lloydd.png" width="150" height="150" />
