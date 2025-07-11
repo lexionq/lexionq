@@ -63,6 +63,7 @@ I have three idols:
 ### What is my hobbies?
 - Developing and Coding(Naturally 😄)
 - History
+- Hacking & Pentesting
 - Operating Systems
 - Linux
 - Cyber Security
