@@ -70,13 +70,6 @@ I have three idols:
 
 ---
 
-### What are my projects?
-| Project Name | Project Description| Project Language| Project GitHub | 
-|--------------|--------------------|-----------------|----------------|
-|Anka Browser  | Web Browser        |C++         | [Anka Browser](https://github.com/lexionq/Anka)|
-|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/lexionq/TermiNote)|
-|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/lexionq/NomTex)| 
-|tellminal     | Send Messages from Terminal| Python |[tellminal](https://github.com/lexionq/tellminal)
 
 
 
