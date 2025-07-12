@@ -6,7 +6,7 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=lexionq&color=blue)
-
+### My Website ( GitHub Pages )
 [My Web Site](https://lexionq.github.io)
 ### Who Am I❓
 
@@ -14,16 +14,10 @@ I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ �
 
 Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve Türküm.☪ 🇹🇷
 
-> İstisna sonuçlar istiyorsanız, müstesna koşullar altında çalışmak zorundasınız.
-> - Selçuk Bayraktar
-
-
-
-
 <h3>Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,html,css,bootstrap,js,nodejs,npm,git,github,linux,mint,bash,kali,arduino,markdown,vscode,qt,gmail,instagram,twitter" />
+    <img align="center" src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,html,css,bootstrap,js,nodejs,npm,anaconda,git,github,linux,mint,bash,kali,nginx,arduino,markdown,vscode,qt,gmail,instagram,twitter" />
   </a>
 </p>
 
@@ -40,8 +34,6 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve T�
 </p>
 
 ---
-My Web Site : [Web Site](https://lexionq.github.io)
-
 OS: Linux Mint 22
 
 Football team I support: Beşiktaş JK 🇹🇷
@@ -50,15 +42,6 @@ Details below.
 
 ---
 
-### Who're my idols? 👨‍🎓
-
-I have three idols:
-
-- Abdulhamid Han (The 36th Ottoman Padishah)
-- Fatih Sultan Mehmet (The 7th Ottoman Padishah, CONQUEROR OF ISTANBUL 🇹🇷. ,Grand Turco, Kayser-i Rum)
-- Selçuk Bayraktar(Turkish engineer and businessman, Founding Chairman of T3(Turkiye Technology Team))
-
----
 
 ### What is my hobbies?
 - Developing and Coding(Naturally 😄)
