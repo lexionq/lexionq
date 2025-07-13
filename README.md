@@ -6,9 +6,17 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=lexionq&color=blue)
-### My Website ( GitHub Pages )
-[My Web Site](https://lexionq.github.io)
-### Who Am I❓
+
+## My Socials 🫂
+
+| Contact  | Website | 
+|----------|----------|
+| [My E-Mail 📬](mailto:lexionq@proton.me) | [My Website 🌐](https://lexionq.github.io)   | 
+
+
+
+ 
+## Who Am I❓
 
 I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
 
@@ -43,7 +51,7 @@ Details below.
 ---
 
 
-### What is my hobbies?
+## What is my hobbies?
 - Developing and Coding(Naturally 😄)
 - History
 - Hacking & Pentesting
