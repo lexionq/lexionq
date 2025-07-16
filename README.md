@@ -6,6 +6,8 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=lexionq&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/lexionq?style=social&color=blue)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Flexionq.github.io)
 
 ## My Socials 🫂
 
