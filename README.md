@@ -9,7 +9,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/lexionq?style=social&color=blue)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Flexionq.github.io)
 
-## My Socials 🫂
+
+
+<h2 align="center"> My Socials 🫂 </h2>
 
 | Contact  | Website | 
 |----------|----------|
@@ -18,13 +20,14 @@
 
 
  
-## Who Am I❓
-
+<h2 align="center">Who Am I❓</h2>
+<div align="center">
 I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
 
 Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve Türküm.☪ 🇹🇷
+</div>
 
-<h3>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img align="center" src="https://skillicons.dev/icons?i=python,c,cpp,cs,go,html,css,bootstrap,js,nodejs,npm,anaconda,git,github,linux,mint,bash,kali,nginx,arduino,markdown,vscode,qt,gmail,instagram,twitter" />
