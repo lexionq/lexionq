@@ -1,6 +1,7 @@
 # Hello 🙋‍♂️ I'm lexion! Developer from Türkiye! 👨‍💻
 <!-- Why you look at this codes :)-->
 <div align="center">
+ <img src="./.github/pp.jpeg" width="150" height="150" />
  <img src="./.github/pp.jpg" width="150" height="150" />
  <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "150" height="150" />
 </div>
