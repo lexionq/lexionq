@@ -1,4 +1,4 @@
-# Hello 🙋‍♂️ I'm lexion! Developer from Türkiye! 👨‍💻
+# Hello 🙋‍♂️ I'm lexion! Developer and Hacker from Türkiye! 👨‍💻
 <!-- Why you look at this codes :)-->
 <div align="center">
  <img src="./.github/pp.jpeg" width="150" height="150" />
@@ -20,9 +20,9 @@
  
 <h2 align="center">Who Am I❓</h2>
 <div align="center">
-I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
+I am fullstack develeoper and hacker from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
 
-Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve Türküm.☪ 🇹🇷
+Türkiye'den fullstack yazılım geliştiricisi ve hacker'ım. 🇹🇷. Müslümanım ve Türküm.☪ 🇹🇷
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
