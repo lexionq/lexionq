@@ -44,26 +44,7 @@ Türkiye'den fullstack yazılım geliştiricisi ve hacker'ım. 🇹🇷. Müslü
   <img src="https://github-readme-stats.vercel.app/api?username=lexionq&show_icons=true&locale=en&theme=algolia" alt="lexionq" height="200" />
 </p>
 
----
-OS: Linux Mint 22
 
-Football team I support: Beşiktaş JK 🇹🇷
-
-Details below.
-
----
-
-
-## What is my hobbies?
-- Developing and Coding(Naturally 😄)
-- History
-- Hacking & Pentesting
-- Operating Systems
-- Linux
-- Cyber Security
-- Astronomy
-
----
 
 
 
