@@ -4,7 +4,7 @@
 ### Social 🫂 
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 7px;" />](https://github.com/lexionq)
 [<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white&color=gray" alt="email" style="margin-bottom: 7px;" />](mailto:lexionq@proton.me)
-[<img src="https://img.shields.io/badge/🌐%20Website-%236e6e6e.svg?&style=for-the-badge&logoColor=white" alt=website style="margin-bottom: 7px;" />](https://seninsiten.com)
+[<img src="https://img.shields.io/badge/🌐%20Website-%236e6e6e.svg?&style=for-the-badge&logoColor=white" alt=website style="margin-bottom: 7px;" />](https://lexionq.github.io)
 
 ---
 
@@ -30,5 +30,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexionq&show_icons=true&hide=html&locale=en&layout=donut&theme=algolia" alt="lexionq" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=lexionq&show_icons=true&locale=en&theme=algolia" alt="lexionq" height="200" />
- <img src="./.github/pp.jpg" width="180" height="200" align=right />
+ <img src="./.github/pp.jpg" width="150" height="200" align=right />
 </p>
