@@ -1,7 +1,7 @@
 ## *lexion, developer and hacker from Türkiye* 👨‍💻
 <!-- Why you look at this codes :)-->
 
-### Social 🫂 
+### 🔗 Social  
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 7px;" />](https://github.com/lexionq)
 [<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white&color=gray" alt="email" style="margin-bottom: 7px;" />](mailto:lexionq@proton.me)
 [<img src="https://img.shields.io/badge/🌐%20Website-%236e6e6e.svg?&style=for-the-badge&logoColor=white" alt=website style="margin-bottom: 7px;" />](https://lexionq.github.io)
