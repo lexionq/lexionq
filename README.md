@@ -17,6 +17,7 @@
 - 🧠 I'm curios about *coding, developing, pentesting & hacking, math, astronomy.*
 - 🐧 Mint + i3 user 🌱
 - 🍀 I mostly listen Lo-Fi musics.
+- ⚔️ I rarely listen Nasheeds. 
 - 💻 My fav programming language is Go 🐹!
 - 🐋 My fav animals are white & red panda 🐼, cat 😽 and arctic fox 🦊.
 
