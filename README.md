@@ -8,8 +8,8 @@
 
 ---
 
-<img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "250" height="250" align=right />
-
+<!-- <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "250" height="250" align=right /> -->
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b0245e82-fb02-4331-88e8-06ed9b64d58e" align=right />
  
 ### 🐼 About Me
 - 👨‍🚀 I'm fullstack develeoper and hacker *(not black hat, just pentester)* from Türkiye 🇹🇷. I'm Turkish 🇹🇷.
