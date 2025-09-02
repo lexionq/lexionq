@@ -14,7 +14,7 @@
 ### 🐼 About Me
 - 👨‍🚀 I'm fullstack develeoper and hacker *(not black hat, just pentester)* from Türkiye 🇹🇷. I'm Turkish 🇹🇷.
 - 🌙 I'm Sunni, Maturidi and Hanefi Muslim. *(fuck shia and vahhabi)*
-- 🧠 I'm curios about *coding, developing, pentesting & hacking, math, astronomy.*
+- 🧠 I'm curios about *coding 💻, developing 🖥️, pentesting & hacking , math , astronomy.🔭*
 - 🐧 Mint + i3 user 🌱
 - 🍀 I mostly listen Lo-Fi musics.
 - ⚔️ I rarely listen Nasheeds. 
