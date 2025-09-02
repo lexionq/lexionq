@@ -25,7 +25,7 @@
 
 ### 💻 Languages & Tools
 <a href="https://skillicons.dev">
-  <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,go,html,css,bootstrap,qt,js,git,github,linux,mint,bash,neovim,kali,nginx,arduino,markdown,vscode,qt,gmail,instagram&theme=dark" />
+  <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,go,html,css,bootstrap,qt,js,git,github,linux,mint,bash,neovim,kali,nginx,arduino,markdown,vscode,gmail,instagram&theme=dark" />
 </a>
 
 ---
