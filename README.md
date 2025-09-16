@@ -16,8 +16,8 @@
 - 🌙 I'm Sunni, Maturidi and Hanefi Muslim. *(fuck shia and vahhabi)*
 - 🧠 I'm curios about *coding 💻, developing 🖥️, pentesting & hacking , math , astronomy.🔭*
 - 🐧 Mint + i3 user 🌱
-- 🍀 I mostly listen Lo-Fi musics.
-- ⚔️ I rarely listen Nasheeds. 
+- 🍀 I rarely listen Lo-Fi musics.
+- ⚔️ I mostenly listen Nasheeds. 
 - 💻 My fav programming language is Go 🐹!
 - 🐋 My fav animals are white & red panda 🐼, cat 😽 and arctic fox 🦊.
 - 🏅 My fav sports are football ⚽ & Formula 1 🏎️(motocross).
