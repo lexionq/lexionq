@@ -21,7 +21,7 @@
 - 💻 My fav programming language is Go 🐹!
 - 🐋 My fav animals are white & red panda 🐼, cat 😽 and arctic fox 🦊.
 - 🏅 My fav sports are football ⚽ & Formula 1 🏎️(motocross).
-- 🏆 I support this teams: Beşiktaş JK 🇹🇷 ⚽ & McLaren 🏎️. 
+- 🏆 I support this teams: Beşiktaş JK 🇹🇷 ⚽ & Ferrari 🏎️. 
 
 ### 💻 Languages & Tools
 <a href="https://skillicons.dev">
