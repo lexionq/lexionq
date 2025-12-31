@@ -30,8 +30,8 @@
 
 ---
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lexionq&show_icons=true&hide=html&locale=en&layout=donut&theme=algolia" alt="lexionq" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=lexionq&show_icons=true&locale=en&theme=algolia" alt="lexionq" height="200" />
-</p>
+</p> -->
 
