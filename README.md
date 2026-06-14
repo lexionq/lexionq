@@ -1,9 +1,8 @@
-## *lexion, developer and hacker from Türkiye* 👨‍💻
+## *lexionq, developer and hacker from Türkiye* 👨‍💻
 <!-- Why you look at this codes :)-->
 
 ### 🔗 Social  
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 7px;" />](https://github.com/lexionq)
-[<img src="https://img.shields.io/badge/E--Mail-gray.svg?&style=for-the-badge&logo=maildotru&logoColor=white&color=gray" alt="email" style="margin-bottom: 7px;" />](mailto:lexionq@proton.me)
 [<img src="https://img.shields.io/badge/🌐%20Website-%236e6e6e.svg?&style=for-the-badge&logoColor=white" alt=website style="margin-bottom: 7px;" />](https://lexionq.github.io)
 
 ---
@@ -20,7 +19,7 @@
 - 💻 My fav programming language is Go 🐹!
 - 🐋 My fav animals are white & red panda 🐼, cat 😽 and arctic fox 🦊.
 - 🏅 My fav sports are football ⚽ & Formula 1 🏎️(motocross).
-- 🏆 I support this teams: Beşiktaş JK 🇹🇷 ⚽ & Ferrari 🏎️. 
+- 🏆 I support this teams: Beşiktaş JK 🇹🇷 ⚽ & Mercedes 🏎️. 
 
 ### 💻 Languages & Tools
 <a href="https://skillicons.dev">
