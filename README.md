@@ -23,7 +23,7 @@
 
 ### 💻 Languages & Tools
 <a href="https://skillicons.dev">
-  <img align="center" src="https://skillicons.dev/icons?i=py,cpp,go,html,css,qt,git,github,linux,mint,bash,neovim,kali,arduino,markdown,vscode,cursor,gmail,instagram&theme=dark" />
+  <img align="center" src="https://skillicons.dev/icons?i=py,cpp,go,html,css,qt,git,github,linux,mint,bash,neovim,kali,arduino,markdown,vscode,gmail,instagram&theme=dark" />
 </a>
 
 ---
