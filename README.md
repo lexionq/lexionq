@@ -11,9 +11,9 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b0245e82-fb02-4331-88e8-06ed9b64d58e" align=right />
  
 ### 🐼 About Me
-- 👨‍🚀 I'm fullstack develeoper and hacker *(not black hat, just pentester)* from Türkiye 🇹🇷. I'm Turkish 🇹🇷.
+- 👨‍🚀 I'm develeoper and hacker *(not black hat, just pentester)* from Türkiye 🇹🇷. I'm Turkish 🇹🇷.
 - 🌙 I'm Sunni, Maturidi and Hanefi Muslim.
-- 🧠 I'm curios about *coding 💻, developing 🖥️, pentesting & hacking , math , astronomy.🔭*
+- 🧠 I'm curios about *coding 💻, developing 🖥️, pentesting & hacking ,OSINT, math , astronomy.🔭*
 - 🐧 Mint + i3 user 🌱
 - 🍀 I mostenly listen Lo-Fi musics.
 - 💻 My fav programming language is Go 🐹!
