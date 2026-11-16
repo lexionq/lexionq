@@ -8,7 +8,7 @@
 ---
 
 ### 🐼 About Me
-`I'm developer, pentester and OSINT'er from Türkiye and I'm Turkish. I'm Sunni, Maturidi and Hanefi Muslim. I'm curios about, *developing 🖥️, pentesting 💻, OSINT*. I'm Mint & i3wm user. 
+`I'm developer, pentester and OSINT'er from Türkiye and I'm Turkish. I'm Sunni, Maturidi and Hanefi Muslim. I'm curios about, developing 🖥️, pentesting 💻, OSINT. I'm Mint & i3wm user. 
 My fav programming language is Go. And I love cats 🐱. My fav football team is BJK 🇹🇷.`
 
 `I speak Türkçe 🇹🇷, English 🇬🇧 and Deutsch 🇩🇪.`
